@@ -1,0 +1,68 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ===========BASE======== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+:root {
+    --bg-color:
+}
+
+button {
+    background: none;
+    font: inherit;
+    border: none;
+    cursor: pointer;
+}
+
+.nav-menu {
+    display: flex;
+    padding: 20px 99px;
+    align-items: center;
+    justify-content: space-between;  
+}
+
+.nav-menu .nav-links {
+    display: flex;
+}
+
+.nav-links, .link, .btns {
+    gap: 64px;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
